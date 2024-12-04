@@ -8,5 +8,8 @@ An Excel dashboard for analyzing e-commerce sales data, providing insights into 
 E-commerce is fast gaining ground as an accepted and used business paradigm. More and more business houses are implementing web sites providing functionality for performing commercial transactions over the web. It is reasonable to say that the process of shopping on the web is becoming commonplace.
 
 ## Objective
-
 An Online E-Commerce Company wants to design a Sales dashboard to analyze the sales based on various regions. The company wants to add user control for product segment, so users can select a segment and can see the trend month-wise and product-wise accordingly.  
+
+## Dataset used
+- <a href="
+
