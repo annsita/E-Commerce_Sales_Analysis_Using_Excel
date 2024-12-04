@@ -11,5 +11,8 @@ E-commerce is fast gaining ground as an accepted and used business paradigm. Mor
 An Online E-Commerce Company wants to design a Sales dashboard to analyze the sales based on various regions. The company wants to add user control for product segment, so users can select a segment and can see the trend month-wise and product-wise accordingly.  
 
 ## Dataset used
+- <a href="https://github.com/annsita/E-Commerce_Sales_Analysis_Using_Excel/blob/main/Ecommerce%20Sales%20Analysis%20Dataset.xlsx">Dataset</a>
+
+## Dashboard Interaction 
 - <a href="
 
