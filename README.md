@@ -14,5 +14,9 @@ An Online E-Commerce Company wants to design a Sales dashboard to analyze the sa
 - <a href="https://github.com/annsita/E-Commerce_Sales_Analysis_Using_Excel/blob/main/Ecommerce%20Sales%20Analysis%20Dataset.xlsx">Dataset</a>
 
 ## Dashboard Interaction 
-- <a href="
+- <a href="https://github.com/annsita/E-Commerce_Sales_Analysis_Using_Excel/blob/main/Ecommerce%20Sales%20Analysis%20Dashboard.xlsx">View Dashboard</a>
+
+## Dashboard
+![Screenshot (9)](https://github.com/user-attachments/assets/243fbfcc-78b2-4870-a238-0018397eaf60)
+
 
